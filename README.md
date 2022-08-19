@@ -1,4 +1,4 @@
-# Bozidar-Butorac
+# BozidarButorac
 
 Hello There!
 
